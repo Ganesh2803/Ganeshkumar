@@ -11,5 +11,10 @@ public class Sample {
 		System.out.println("m2");
 
 	}
+	
+	private void m3() {
+		// TODO Auto-generated method stub
+
+	}
 
 }
